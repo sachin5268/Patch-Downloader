@@ -1,0 +1,73 @@
+Activator for SAP 16.0.0,sap_16_0_0
+ActiveView Wizard 16.0.0,rktwizard_16_0_0
+ActiveView Wizard 16.2.0,rktwizard_16_2_0
+Advanced State Management 16.3.0,asm_16_3_0
+Application Governance & Archiving 16.2.4,spsarchiving_16_2_4
+Automatic Document Numbering 16.2.0,adn_16_2_0
+Automatic Document Numbering 16.3.0,adn_16_3_0
+Blazon for Content Suite 16.2.0,blazon_16_2_0
+Blazon for OTCS 16.6.0,blazon_16_6_0
+Blazon for OTCS 16.6.1,blazon_16_6_1
+Blazon for OTCS 16.3.0,blazon_16_3_0
+Blazon for OTCS 16.4.0,blazon_16_4_0
+Brava! Batch Printer 16.4.0,bravaprint_16_4_0
+Brava! Batch Printer 16.6.1,bravaprint_16_6_1
+Brava! Batch Printer 16.6.0,bravaprint_16_6_0
+Brava! Batch Printer 16.3.0,bravaprint_16_3_0
+Brava! Batch Printer 16.2.0,bravaprint_16_2_0
+Brava! Batch Printer 16.6.1,bravaprint_16_6_1
+Brava! for Content Server 16.3.0,brava_16_3_0
+Brava! for Content Server 16.4.0,brava_16_4_0
+Brava! for Content Server 16.2.0,brava_16_2_0
+Brava! for Content Server 16.6.1,brava_16_6_1
+Brava! for Content Server 16.6.0,brava_16_6_0
+Brava! Workflow Enhancements 16.2.0,bravawf_16_2_0
+Brava! Workflow Enhancements 16.3.0,bravawf_16_3_0
+Brava! Workflow Enhancements 16.4.0,bravawf_16_4_0
+Brava! Workflow Enhancements 16.6.0,bravawf_16_6_0
+Brava! Workflow Enhancements 16.6.1,bravawf_16_6_1
+CAD Manager 16.3.0,cadman_16_3_0
+Connected Workspaces 16.2.0,otsapxecm_16_2_0
+Contract Management 16.2.0,contractmanagement_16_2_0
+Controlled Revision Tracking 16.3.0,crt_16_3_0
+Controlled Viewing and Printing 16.0.0,controlledviewing_16_0_0
+Controlled Viewing and Printing 16.2.7,controlledviewing_16_2_7
+Electronic Signatures 16.2.0,esign_16_2_0
+Electronic Signatures 16.2.7,esign_16_2_7
+Electronic Signatures 16.0.0,esign_16_0_0
+Electronic Signatures 16.2.8,esign_16_2_8
+Electronic Signatures 20.2.0,esign_20_2_0
+Email Management Services 16.2.4,otemailmanagement_16_2_4
+Email Management Services 16.2.0,otemailmanagement_16_2_0
+Enterprise Scan - Webinterface 16.2.1,escanwebinterface_16_2_1
+Enterprise Scan - Webinterface 16.4.0,escanwebinterface_16_4_0
+Enterprise Scan - Webinterface 16.2.0,escanwebinterface_16_2_0
+Extended ECM Documentum for SAP Solutions 16.2.0,xsapdcm_16_2_0
+Extended ECM for Engineering - Base 16.2.0,xeng_16_2_0
+Extended ECM for Engineering - CRT 16.2.0,xengcrt_16_2_0
+Extended ECM for Government 16.3.1,xecmgovps_16_3_1
+Extended ECM for Engineering - Transmittals 16.2.0,xengtransmittal_16_2_0
+Extended ECM for Office 365 16.2.3,xecmoffice_16_2_3
+Extended ECM for Office 365 16.2.4,xecmoffice_16_2_4
+Extended ECM for Oracle 16.2.0,extendedecmfororacle_16_2_0
+Extended ECM for Oracle 16.0.0,extendedecmfororacle_16_0_0
+Extended ECM for SAP Solutions 16.2.0,xecmsap_16_2_0
+Extended ECM for SAP SuccessFactors 16.2.0,othcm_16_2_0
+Extended ECM Platform 16.2.0,xecmpf_16_2_0
+Extensions for Enterprise Library 16.2.0,elservice_16_2_0
+Extensions for Enterprise Library Search 16.2.0,elsearch_16_2_0
+File System Archiving 16.0.0,fsaconfig_16_0_0
+GIS 16.3.0,gis_16_3_0
+GISLink 16.3.0,gislink_16_3_0
+Imaging Reviews and Notes 16.2.0,llimaging_16_2_0
+Interactive Correspondence 16.2.0,dpwizard_16_2_0
+Object Import CAD Edition 16.3.0,oicer_16_3_0
+Physical Objects 16.2.0,physicalobjects_16_2_0
+Records Management 16.2.0,recman_16_2_0
+Security Clearance 16.2.0,recmansecurity_16_2_0
+Tempo Box 16.1.0,otsync_16_1_0
+Tempo Box 16.1.2,otsync_16_1_2
+Transmittal Management 16.3.0,transmittal_16_3_0
+WebDAV 16.2.4,webdav_16_2_4
+WebDAV 16.2.0,webdav_16_2_0
+WebReports Workflow Extensions 16.2.0,webreportswf_16_2_0
